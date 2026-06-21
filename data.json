@@ -4052,5 +4052,12 @@
     "url": "https://parish.cv/blog",
     "linkedin": "parishkhan",
     "tags": ["React", "TypeScript", "Frontend", "Design Systems"]
+  },
+  {
+    "name": "Nelson Figueroa",
+    "description": "Personal site of Nelson Figueroa -- Software Engineer",
+    "url": "https://nelson.cloud",
+    "linkedin": "nelsonfigueroa1",
+    "tags": ["Blog", "Technology", "Cybersecurity", "DevOps", "Infrastructure", "Cloud", "Software"],
   }
 ]
