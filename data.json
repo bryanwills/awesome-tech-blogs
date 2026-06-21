@@ -1680,6 +1680,13 @@
     "tags": ["Web Design", "WordPress", "SEO"]
   },
   {
+    "name": "Nelson Figueroa",
+    "description": "Personal site of Nelson Figueroa -- Software Engineer",
+    "url": "https://nelson.cloud",
+    "linkedin": "nelsonfigueroa1",
+    "tags": ["Blog", "Technology", "Cybersecurity", "DevOps", "Infrastructure", "Cloud", "Software"]
+  },
+  {
     "name": "Alexander Lichter",
     "description": "Nuxt.js maintainer and Web Development Consultant. I love to blog about various technical topics with a focus on web development, especially with Vue and Nuxt.",
     "url": "https://www.lichter.io/articles/?ref=tech-blogs.dev",
